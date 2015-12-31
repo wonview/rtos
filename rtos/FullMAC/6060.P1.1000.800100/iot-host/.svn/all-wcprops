@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host
+END
+build_gp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/build_gp.bat
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/readme.txt
+END
+Makefile.release
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/Makefile.release
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/Makefile
+END
+.gdbinit
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/.gdbinit
+END
+build_gp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/build_gp.sh
+END
+gp_lib_release.bat
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/gp_lib_release.bat
+END
+ssv6200-uart.bin
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/ssv6200-uart.bin
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/.project
+END
+build_gp19.bat
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/build_gp19.bat
+END
+gp_lib_release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/gp_lib_release.sh
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/.cproject
+END
+release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/release.sh
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP
+END
+ssv6200-uart.bin
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/ssv6200-uart.bin
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/.project
+END
+build_gp19.bat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/build_gp19.bat
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/.cproject
+END
+release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/release.sh
+END
+build_gp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/build_gp.bat
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/readme.txt
+END
+Makefile.release
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/Makefile.release
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/Makefile
+END
+.gdbinit
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/.gdbinit
+END
+build_gp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/build_gp.sh
+END
+gp_lib_release.bat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/gp_lib_release.bat
+END

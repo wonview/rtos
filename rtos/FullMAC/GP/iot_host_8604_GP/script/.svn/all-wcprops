@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script
+END
+lintwine
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/lintwine
+END
+lint.mk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/lint.mk
+END
+wifi.ini
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/wifi.ini
+END
+lint.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/lint.sh
+END
+CAB.lnt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/CAB.lnt
+END
+gcc_inc.lnt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/gcc_inc.lnt
+END
+modify.pl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/modify.pl
+END
+ver_info.pl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/ver_info.pl
+END

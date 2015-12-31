@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/project/gp
+END
+gp19b_clean_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/project/gp/gp19b_clean_build.bat
+END
+gp19b_clean_build_q.bat
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/project/gp/gp19b_clean_build_q.bat
+END
+gp15-release-build.pl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/project/gp/gp15-release-build.pl
+END
+autobuild.pl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/project/gp/autobuild.pl
+END
+gp15b_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/project/gp/gp15b_build.bat
+END
+gp15b_build_q.bat
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/project/gp/gp15b_build_q.bat
+END
+gp15b_clean_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/project/gp/gp15b_clean_build.bat
+END
+gp15b_clean_build_q.bat
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/project/gp/gp15b_clean_build_q.bat
+END
+gp19b_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/project/gp/gp19b_build.bat
+END
+gp19b_build_q.bat
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/project/gp/gp19b_build_q.bat
+END
+gpconfig.pl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/project/gp/gpconfig.pl
+END

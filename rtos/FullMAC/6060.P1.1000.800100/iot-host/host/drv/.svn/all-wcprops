@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/drv
+END
+ssv_drv.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/drv/ssv_drv.h
+END
+ssv_drv_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/drv/ssv_drv_config.h
+END
+ssv_drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/drv/ssv_drv.c
+END

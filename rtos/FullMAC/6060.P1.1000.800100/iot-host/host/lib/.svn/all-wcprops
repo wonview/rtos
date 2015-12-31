@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/lib
+END
+efuse.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/lib/efuse.c
+END
+ssv_timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/lib/ssv_timer.c
+END
+ssv_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/lib/ssv_lib.c
+END
+ssv_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/lib/ssv_msg.c
+END
+lib-impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/lib/lib-impl.c
+END
+ssv_frame.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/lib/ssv_frame.c
+END

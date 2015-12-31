@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/lib/apps
+END
+host_global.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/lib/apps/host_global.c
+END
+host_log.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/lib/apps/host_log.c
+END
+msgevt.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/lib/apps/msgevt.c
+END
+pbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/lib/apps/pbuf.c
+END

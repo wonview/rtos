@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/drv
+END
+ssv_drv_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/drv/ssv_drv_config.h
+END
+ssv_drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/drv/ssv_drv.c
+END
+ssv_drv.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/drv/ssv_drv.h
+END

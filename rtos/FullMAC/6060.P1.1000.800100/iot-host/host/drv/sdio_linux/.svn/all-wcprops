@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/drv/sdio_linux
+END
+sdio_if_impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/drv/sdio_linux/sdio_if_impl.c
+END
+sdio_ioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/drv/sdio_linux/sdio_ioctl.h
+END
+sdio.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/drv/sdio_linux/sdio.c
+END
+sdio_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/drv/sdio_linux/sdio_def.h
+END
+sdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/drv/sdio_linux/sdio.h
+END

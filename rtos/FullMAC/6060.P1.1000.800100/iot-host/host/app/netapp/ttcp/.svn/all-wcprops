@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/app/netapp/ttcp
+END
+ttcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/app/netapp/ttcp/ttcp.h
+END
+ttcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/app/netapp/ttcp/ttcp.c
+END

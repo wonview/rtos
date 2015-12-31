@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/tcpip/lwip-1.4.0/src/netif
+END
+ethernetif.c
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/tcpip/lwip-1.4.0/src/netif/ethernetif.c
+END
+FILES
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/tcpip/lwip-1.4.0/src/netif/FILES
+END
+etharp.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/tcpip/lwip-1.4.0/src/netif/etharp.c
+END
+slipif.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/tcpip/lwip-1.4.0/src/netif/slipif.c
+END

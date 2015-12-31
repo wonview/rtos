@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/core
+END
+host_cmd_engine.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/core/host_cmd_engine.c
+END
+host_cmd_engine_tx.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/core/host_cmd_engine_tx.h
+END
+txrx_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/core/txrx_task.c
+END
+host_apis.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/core/host_apis.c
+END
+host_cmd_engine_sm.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/core/host_cmd_engine_sm.h
+END
+host_cmd_engine_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/core/host_cmd_engine_priv.h
+END
+mlme.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/core/mlme.c
+END
+txrx_hdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/core/txrx_hdl.c
+END
+txrx_task.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/core/txrx_task.h
+END
+host_cmd_engine_rx.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/core/host_cmd_engine_rx.c
+END
+mlme.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/core/mlme.h
+END
+host_cmd_engine_tx.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/core/host_cmd_engine_tx.c
+END

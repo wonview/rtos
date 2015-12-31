@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap
+END
+ieee802_11_mgmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/ieee802_11_mgmt.c
+END
+ieee802_11_mgmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/ieee802_11_mgmt.h
+END
+ap_drv_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/ap_drv_cmd.c
+END
+hw_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/hw_config.c
+END
+ap_drv_cmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/ap_drv_cmd.h
+END
+neighbor_ap_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/neighbor_ap_list.c
+END
+hw_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/hw_config.h
+END
+ap_rx.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/ap_rx.c
+END
+ap_mlme.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/ap_mlme.c
+END
+ap_tx.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/ap_tx.c
+END
+neighbor_ap_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/neighbor_ap_list.h
+END
+ap_rx.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/ap_rx.h
+END
+ap_mlme.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/ap_mlme.h
+END
+ap_tx.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/ap_tx.h
+END
+ap_sta_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/ap_sta_info.c
+END
+ap_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/ap_config.c
+END
+wpa_auth_i.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/wpa_auth_i.h
+END
+beacon.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/beacon.c
+END
+ap_sta_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/ap_sta_info.h
+END
+wpa_auth_glue.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/wpa_auth_glue.h
+END
+wpa_auth_ie.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/wpa_auth_ie.h
+END
+ap_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/ap_config.h
+END
+beacon.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/beacon.h
+END
+wmm.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/wmm.c
+END
+ap.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/ap.c
+END
+wmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/wmm.h
+END
+ap.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/ap.h
+END
+wpa_auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/wpa_auth.c
+END
+testcase.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/testcase.c
+END
+wpa_auth.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/wpa_auth.h
+END
+ap_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/ap_info.h
+END
+db.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/db.txt
+END
+ap_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/ap_def.h
+END

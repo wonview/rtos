@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/drv/ftdi-spi/lib/windows/i386
+END
+libMPSSE.dll
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/drv/ftdi-spi/lib/windows/i386/libMPSSE.dll
+END
+libMPSSE.exp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/drv/ftdi-spi/lib/windows/i386/libMPSSE.exp
+END
+libMPSSE.def
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/drv/ftdi-spi/lib/windows/i386/libMPSSE.def
+END
+libMPSSE.lib
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/drv/ftdi-spi/lib/windows/i386/libMPSSE.lib
+END

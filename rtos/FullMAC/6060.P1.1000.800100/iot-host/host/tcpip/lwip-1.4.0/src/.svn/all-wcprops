@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/tcpip/lwip-1.4.0/src
+END
+.hgignore
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/tcpip/lwip-1.4.0/src/.hgignore
+END
+FILES
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/tcpip/lwip-1.4.0/src/FILES
+END

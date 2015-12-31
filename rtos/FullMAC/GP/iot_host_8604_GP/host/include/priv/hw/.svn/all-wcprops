@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/include/priv/hw
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/include/priv/hw/common.h
+END
+ssv_pktdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/include/priv/hw/ssv_pktdef.h
+END
+ethertype.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/include/priv/hw/ethertype.h
+END
+hdr80211.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/include/priv/hw/hdr80211.h
+END
+drv_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/include/priv/hw/drv_mac.h
+END
+ssv_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/include/priv/hw/ssv_regs.h
+END
+pbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/include/priv/hw/pbuf.h
+END
+cmd_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/include/priv/hw/cmd_def.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/include/priv/hw/log.h
+END
+wpa_supplicant_i.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/include/priv/hw/wpa_supplicant_i.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/include/priv/hw/types.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/include/priv/hw/config.h
+END
+msgevt.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/include/priv/hw/msgevt.h
+END

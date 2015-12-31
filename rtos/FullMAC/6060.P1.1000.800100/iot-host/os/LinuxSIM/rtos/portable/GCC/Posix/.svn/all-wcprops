@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/os/LinuxSIM/rtos/portable/GCC/Posix
+END
+port.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/os/LinuxSIM/rtos/portable/GCC/Posix/port.c
+END
+portmacro.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/os/LinuxSIM/rtos/portable/GCC/Posix/portmacro.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/project/gp/DailyBuild
+END
+run-daily-build.pl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/project/gp/DailyBuild/run-daily-build.pl
+END
+dailybuild.pl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/project/gp/DailyBuild/dailybuild.pl
+END
+autobuild.bat
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/project/gp/DailyBuild/autobuild.bat
+END
+autodailybuild.bat
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/script/project/gp/DailyBuild/autodailybuild.bat
+END

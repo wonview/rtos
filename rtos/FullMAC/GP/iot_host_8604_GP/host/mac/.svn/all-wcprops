@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/mac
+END
+ap_cfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/mac/ap_cfg.c
+END
+ap_cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/mac/ap_cfg.h
+END
+sta_cfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/mac/sta_cfg.c
+END
+sta_cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/mac/sta_cfg.h
+END

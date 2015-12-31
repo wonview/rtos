@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/script
+END
+lint.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/script/lint.sh
+END
+CAB.lnt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/script/CAB.lnt
+END
+gcc_inc.lnt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/script/gcc_inc.lnt
+END
+modify.pl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/script/modify.pl
+END
+ver_info.pl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/script/ver_info.pl
+END
+lintwine
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/script/lintwine
+END
+lint.mk
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/script/lint.mk
+END
+wifi.ini
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/script/wifi.ini
+END

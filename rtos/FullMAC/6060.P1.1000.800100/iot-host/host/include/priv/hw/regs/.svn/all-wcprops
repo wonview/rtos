@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/include/priv/hw/regs
+END
+ssv6200_aux.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/include/priv/hw/regs/ssv6200_aux.h
+END
+ssv6200_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/include/priv/hw/regs/ssv6200_reg.h
+END
+ssv6200_gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/include/priv/hw/regs/ssv6200_gpio.h
+END
+ssv6200_configuration.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/include/priv/hw/regs/ssv6200_configuration.h
+END

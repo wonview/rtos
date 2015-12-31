@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host
+END
+macaddr.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/macaddr.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/init.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/main.c
+END
+version.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/version.c
+END
+ethermac.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ethermac.c
+END

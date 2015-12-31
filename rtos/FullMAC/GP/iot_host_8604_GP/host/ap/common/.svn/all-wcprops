@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/common
+END
+wpa_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/common/wpa_common.h
+END
+bitops.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/common/bitops.h
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/common/defs.h
+END
+ieee80211.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/common/ieee80211.h
+END
+ieee802_11_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/common/ieee802_11_defs.h
+END
+ieee802_11_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/common/ieee802_11_common.c
+END
+bitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/common/bitmap.c
+END
+ether.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/common/ether.h
+END
+ap_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/common/ap_common.h
+END
+eapol_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/common/eapol_common.h
+END
+privsep_commands.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/common/privsep_commands.h
+END
+ieee802_11_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/common/ieee802_11_common.h
+END
+wpa_ctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/common/wpa_ctrl.h
+END
+bitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/ap/common/bitmap.h
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/drv/ftdi-spi
+END
+FTCSPI.dll
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/drv/ftdi-spi/FTCSPI.dll
+END
+SPI_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/drv/ftdi-spi/SPI_defs.h
+END
+ftdi_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/drv/ftdi-spi/ftdi_spi.c
+END
+ftdi_spi_if_imp.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/drv/ftdi-spi/ftdi_spi_if_imp.c
+END
+FTCSPI64.lib
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/drv/ftdi-spi/FTCSPI64.lib
+END
+ftdi_spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/drv/ftdi-spi/ftdi_spi.h
+END
+FTCSPI64.dll
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/drv/ftdi-spi/FTCSPI64.dll
+END
+FTCSPI.lib
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/drv/ftdi-spi/FTCSPI.lib
+END
+FTCSPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/drv/ftdi-spi/FTCSPI.h
+END
+libMPSSE_spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/drv/ftdi-spi/libMPSSE_spi.h
+END

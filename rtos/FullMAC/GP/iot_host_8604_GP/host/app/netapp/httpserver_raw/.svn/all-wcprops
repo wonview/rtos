@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/app/netapp/httpserver_raw
+END
+httpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/app/netapp/httpserver_raw/httpd.c
+END
+httpd_cgi_ssi.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/app/netapp/httpserver_raw/httpd_cgi_ssi.c
+END
+help.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/app/netapp/httpserver_raw/help.txt
+END
+fsdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/app/netapp/httpserver_raw/fsdata.h
+END
+fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/app/netapp/httpserver_raw/fs.c
+END
+httpd.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/app/netapp/httpserver_raw/httpd.h
+END
+http_fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/app/netapp/httpserver_raw/http_fs.h
+END
+httpd_structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/app/netapp/httpserver_raw/httpd_structs.h
+END
+fsdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/app/netapp/httpserver_raw/fsdata.c
+END

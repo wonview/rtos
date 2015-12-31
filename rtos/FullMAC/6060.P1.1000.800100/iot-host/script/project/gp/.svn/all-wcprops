@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/script/project/gp
+END
+gp19b_clean_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/script/project/gp/gp19b_clean_build.bat
+END
+gp19b_clean_build_q.bat
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/script/project/gp/gp19b_clean_build_q.bat
+END
+gp15-release-build.pl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/script/project/gp/gp15-release-build.pl
+END
+autobuild.pl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/script/project/gp/autobuild.pl
+END
+gp15b_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/script/project/gp/gp15b_build.bat
+END
+gp15b_build_q.bat
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/script/project/gp/gp15b_build_q.bat
+END
+gp15b_clean_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/script/project/gp/gp15b_clean_build.bat
+END
+gp15b_clean_build_q.bat
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/script/project/gp/gp15b_clean_build_q.bat
+END
+gp19b_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/script/project/gp/gp19b_build.bat
+END
+gp19b_build_q.bat
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/script/project/gp/gp19b_build_q.bat
+END
+gpconfig.pl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/script/project/gp/gpconfig.pl
+END

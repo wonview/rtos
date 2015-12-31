@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/app/netapp/httpserver_raw
+END
+http_fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/app/netapp/httpserver_raw/http_fs.h
+END
+httpd_structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/app/netapp/httpserver_raw/httpd_structs.h
+END
+fsdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/app/netapp/httpserver_raw/fsdata.c
+END
+httpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/app/netapp/httpserver_raw/httpd.c
+END
+httpd_cgi_ssi.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/app/netapp/httpserver_raw/httpd_cgi_ssi.c
+END
+help.txt
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/app/netapp/httpserver_raw/help.txt
+END
+fsdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/app/netapp/httpserver_raw/fsdata.h
+END
+fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/app/netapp/httpserver_raw/fs.c
+END
+httpd.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/app/netapp/httpserver_raw/httpd.h
+END

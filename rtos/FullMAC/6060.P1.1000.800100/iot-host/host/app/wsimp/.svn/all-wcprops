@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/app/wsimp
+END
+wsimp_sim.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/app/wsimp/wsimp_sim.h
+END
+wsimp_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/app/wsimp/wsimp_config.c
+END
+wsimp_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/app/wsimp/wsimp_lib.c
+END
+wsimp_sim.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/app/wsimp/wsimp_sim.c
+END
+wsimp_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/app/wsimp/wsimp_config.h
+END
+wsimp_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/app/wsimp/wsimp_lib.h
+END

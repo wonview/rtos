@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/include/priv/hw
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/include/priv/hw/types.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/include/priv/hw/config.h
+END
+msgevt.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/include/priv/hw/msgevt.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/include/priv/hw/common.h
+END
+ssv_pktdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/include/priv/hw/ssv_pktdef.h
+END
+ethertype.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/include/priv/hw/ethertype.h
+END
+hdr80211.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/include/priv/hw/hdr80211.h
+END
+drv_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/include/priv/hw/drv_mac.h
+END
+ssv_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/include/priv/hw/ssv_regs.h
+END
+pbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/include/priv/hw/pbuf.h
+END
+cmd_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/include/priv/hw/cmd_def.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/include/priv/hw/log.h
+END
+wpa_supplicant_i.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/8434/project/release/rtos/FullMAC/6060.P1.1000.800100/iot-host/host/include/priv/hw/wpa_supplicant_i.h
+END

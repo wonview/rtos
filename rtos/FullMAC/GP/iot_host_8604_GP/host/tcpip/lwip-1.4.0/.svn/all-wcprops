@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/tcpip/lwip-1.4.0
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/tcpip/lwip-1.4.0/CHANGELOG
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/tcpip/lwip-1.4.0/COPYING
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/tcpip/lwip-1.4.0/README
+END
+UPGRADING
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/tcpip/lwip-1.4.0/UPGRADING
+END
+FILES
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/tcpip/lwip-1.4.0/FILES
+END

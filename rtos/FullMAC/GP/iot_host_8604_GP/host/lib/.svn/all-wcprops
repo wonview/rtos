@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/lib
+END
+ssv_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/lib/ssv_lib.c
+END
+ssv_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/lib/ssv_msg.c
+END
+lib-impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/lib/lib-impl.c
+END
+ssv_frame.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/lib/ssv_frame.c
+END
+efuse.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/lib/efuse.c
+END
+ssv_timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/lib/ssv_timer.c
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/core
+END
+txrx_hdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/core/txrx_hdl.c
+END
+txrx_task.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/core/txrx_task.h
+END
+host_cmd_engine_rx.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/core/host_cmd_engine_rx.c
+END
+mlme.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/core/mlme.h
+END
+host_cmd_engine_tx.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/core/host_cmd_engine_tx.c
+END
+host_cmd_engine.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/core/host_cmd_engine.c
+END
+host_cmd_engine_tx.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/core/host_cmd_engine_tx.h
+END
+txrx_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/core/txrx_task.c
+END
+host_apis.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/core/host_apis.c
+END
+host_cmd_engine_sm.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/core/host_cmd_engine_sm.h
+END
+host_cmd_engine_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/core/host_cmd_engine_priv.h
+END
+mlme.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/core/mlme.c
+END

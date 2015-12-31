@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/os_wrapper/MicroC
+END
+porting.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/os_wrapper/MicroC/porting.c
+END
+porting.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/os_wrapper/MicroC/porting.h
+END
+rtos.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/os_wrapper/MicroC/rtos.c
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/drv/spi
+END
+spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/drv/spi/spi.c
+END
+spi_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/drv/spi/spi_def.h
+END
+spi_if_imp.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/drv/spi/spi_if_imp.c
+END
+spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/8606/project/release/rtos/FullMAC/GP/iot_host_8604_GP/host/drv/spi/spi.h
+END
